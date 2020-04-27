@@ -6,7 +6,7 @@ attr_accessor :name
     bark
   end
   def bark
-    puts "Woof!"
+    puts "woof!"
   end
 
   fido = Dog.new
