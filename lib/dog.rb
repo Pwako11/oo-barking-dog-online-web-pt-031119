@@ -9,5 +9,4 @@ attr_accessor :name
     puts "woof!"
   end
   fido = Dog.new
-  bark
 end
