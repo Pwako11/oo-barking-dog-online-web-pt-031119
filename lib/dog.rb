@@ -2,7 +2,7 @@ class Dog
 
 attr_accessor :name
 
-  def initialize(bark)
+  def initialize
     bark
   end
   def bark
