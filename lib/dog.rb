@@ -1,13 +1,13 @@
-class Dog 
+class Dog
 
-attr_accessor :name 
+attr_accessor :name
 
-  def initialize 
-    bark  
-  end 
-  def bark 
+  def initialize
+    bark
+  end
+  def bark
     puts "Woof!"
-  end 
+  end
 
   fido = Dog.new
-end 
+end
